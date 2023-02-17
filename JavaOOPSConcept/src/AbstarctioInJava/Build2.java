@@ -13,6 +13,8 @@ public class Build2 extends Build1 {
 		ob.stockexchange();
 		ob.mutualfund();
 		ob.test();
+		ob.test1();
+		ob.test2();
 
 	}
 
